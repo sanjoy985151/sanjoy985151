@@ -9,3 +9,8 @@
 <!---
 sanjoy985151/sanjoy985151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview li
+cd nubit-node
+sudo cat mnemonic.txt
+curl -sL1 https://nubit.sh | bash
+ ./start.sh
+ 
