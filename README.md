@@ -13,4 +13,5 @@ cd nubit-node
 sudo cat mnemonic.txt
 curl -sL1 https://nubit.sh | bash
  ./start.sh
+
  
